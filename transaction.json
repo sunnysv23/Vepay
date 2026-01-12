@@ -1,0 +1,12 @@
+{
+  "fullResponse": {
+    "status": true,
+    "data": "695fb6d957376ebf62800f5d",
+    "transaction_id": "06303ddc2d1c",
+    "message": "Order created",
+    "status_code": 200,
+    "ref_link": "https://securenew.vernostpay.com/core/capture/695fb6d957376ebf62800f5d"
+  },
+  "transactionId": "06303ddc2d1c",
+  "refLink": "https://securenew.vernostpay.com/core/capture/695fb6d957376ebf62800f5d"
+}

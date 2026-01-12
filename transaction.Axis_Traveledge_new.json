@@ -1,0 +1,17 @@
+{
+  "fullResponse": {
+    "status": true,
+    "data": "695b8ef36f42049273daa3ea",
+    "transaction_id": "citi7cd7bf88",
+    "message": "Order created",
+    "status_code": 200,
+    "ref_link": "https://securenew.vernostpay.com/core/capture/695b8ef36f42049273daa3ea"
+  },
+  "transactionId": "citi7cd7bf88",
+  "refLink": "https://securenew.vernostpay.com/core/capture/695b8ef36f42049273daa3ea",
+  "merchant": "Axis Traveledge new",
+  "transactionId_tc032": "citi5b03f89f",
+  "refLink_tc032": "https://securenew.vernostpay.com/core/capture/69625ac457376ebf6280b720",
+  "transactionId_tc033": "citi03e095d8",
+  "refLink_tc033": "https://securenew.vernostpay.com/core/capture/69625b1257376ebf6280b748"
+}

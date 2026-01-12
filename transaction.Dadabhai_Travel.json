@@ -1,0 +1,9 @@
+{
+  "transactionId_tap": "db9bfb99d692",
+  "paymentToken_tap": "69634d6657376ebf6280dd1b",
+  "payment_link_tap": "https://securenew.vernostpay.com/core/process/payment/69634d6657376ebf6280dd30?lang=undefined",
+  "merchant": "Dadabhai Travel",
+  "transactionId_tap2": "db1257713f84",
+  "paymentToken_tap2": "69634d9b57376ebf6280dd81",
+  "payment_link_tap2": "https://securenew.vernostpay.com/core/process/payment/69634d9b57376ebf6280dd96?lang=undefined"
+}
