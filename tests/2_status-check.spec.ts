@@ -1291,9 +1291,9 @@ test("[Positive:TC_026] Verify Status Check API with valid identifier", async ()
     // console.log(`   Code: ${statusData.integration_response.raw_response.code}`);
     // console.log(`   Payment Status: ${statusData.integration_response.raw_response.payments_status}`);
     // console.log(`   Amount: ${statusData.integration_response.raw_response.amount} ${statusData.currency}`);
-    console.log(`   Captured Amount: ${statusData.integration_response.raw_response.captured_amount} ${statusData.currency}`);
-    console.log(`   Refunded Amount: ${statusData.integration_response.raw_response.refunded_amount} ${statusData.currency}`);
-    console.log(`   Payment Date: ${statusData.integration_response.raw_response.payment_date}`);
+    // console.log(`   Captured Amount: ${statusData.integration_response.raw_response.captured_amount} ${statusData.currency}`);
+    // console.log(`   Refunded Amount: ${statusData.integration_response.raw_response.refunded_amount} ${statusData.currency}`);
+    // console.log(`   Payment Date: ${statusData.integration_response.raw_response.payment_date}`);
     
     if (statusData.integration_response.raw_response.payment_transactions && 
         statusData.integration_response.raw_response.payment_transactions.length > 0) {
